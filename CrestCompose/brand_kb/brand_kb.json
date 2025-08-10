@@ -1,0 +1,51 @@
+{
+    "acme": {
+        "display_name": "ACME Robotics",
+        "brand_colors_hex": [
+            "#FF3B3B",
+            "#111111",
+            "#FFFFFF"
+        ],
+        "voice": "innovative, confident, minimal",
+        "visual_style": "modern, high contrast, light-on-dark",
+        "dos": [
+            "use red as accent only",
+            "prefer dark backgrounds",
+            "keep clutter low"
+        ],
+        "donts": [
+            "never stretch logo",
+            "never recolor logo",
+            "no drop shadows"
+        ],
+        "logo_variants": {
+            "light": "logos/acme/acme_logo_light.png",
+            "dark": "logos/acme/acme_logo_dark.png"
+        },
+        "default_logo_preference": "light",
+        "default_logo_position": "top-right"
+    },
+    "redwhite": {
+        "display_name": "Red & White Skill Education",
+        "brand_colors_hex": [
+            "#E50914",
+            "#FFFFFF",
+            "#1F1F1F"
+        ],
+        "voice": "friendly, instructional, trustworthy",
+        "visual_style": "clean, educational, white backgrounds",
+        "dos": [
+            "prefer white backgrounds",
+            "bold headline"
+        ],
+        "donts": [
+            "avoid thin low-contrast text"
+        ],
+        "logo_variants": {
+            "light": "logos/redwhite/redwhite_logo_light.png",
+            "dark": "logos/redwhite/redwhite_logo_dark.png"
+        },
+        "default_logo_preference": "dark",
+        "default_logo_position": "top-center"
+    }
+}
