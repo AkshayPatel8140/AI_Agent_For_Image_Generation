@@ -50,7 +50,6 @@ OUTPUT_DIR = "generated_brand_image"
 # ============================
 # kb loader
 # ============================
-# ? What is the use of dataclass?
 @dataclass
 class BrandKBItem:
     """

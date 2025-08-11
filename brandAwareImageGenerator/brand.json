@@ -1,0 +1,26 @@
+{
+  "name": "Red & White Skill Education",
+  "palette_hex": [
+    "#E50914",
+    "#FFFFFF",
+    "#1F1F1F"
+  ],
+  "tone": "Friendly, instructional, trustworthy",
+  "required_terms": [
+    "Learn",
+    "Career"
+  ],
+  "forbidden_terms": [
+    "Free money",
+    "Guaranteed job"
+  ],
+  "logo_policy": {
+    "positions": [
+      "top-right",
+      "top-center",
+      "bottom-right"
+    ],
+    "min_clear_space": "12px"
+  },
+  "max_colors": 4
+}
